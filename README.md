@@ -2,8 +2,8 @@
 My name is Ilvina and I'm a Frontend Developer!
 
 - 🌱 I’m currently learning React
-- 🔭 Right now I'm working on a React English learning flashcards app.
-- ⚡ I plan to look deeper into learning TypeScript.
+- 🔭 Right now I'm working on a React English learning flashcards app
+- ⚡ I plan to look deeper into learning TypeScript
 
 ### Technologies:
 <code><img height="20" title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
