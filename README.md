@@ -20,4 +20,4 @@ My name is Ilvina and I'm a Frontend Developer!
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitehttps://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tintinelle&layout=compact)](https://github.com/tintinelle/github-readme-stats)
+![tintinelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=tintinelle&show_icons=true&theme=radical)
