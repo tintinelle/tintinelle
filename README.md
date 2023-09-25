@@ -15,6 +15,7 @@ My name is Ilvina and I'm a Frontend Developer!
 
 ### Contacts:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/tintinelle)](https://t.me/tintinelle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tintinelle/)](https://www.linkedin.com/in/tintinelle/)
 <a href="mailto:ilvrakh@gmail.com"> 
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitehttps://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
